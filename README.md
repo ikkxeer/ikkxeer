@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ikkxeer
+- 👀 I’m interested in new experiences
+- 🌱 I’m currently learning Python, Web development, Powershell and CyberSecurity
+- 💞️ I seek to collaborate in the community, help people and learn at the same time
+- 📫 You can contact me by mail or directly through discord "Azrael"
