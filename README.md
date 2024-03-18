@@ -1,5 +1,3 @@
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/137718457?v=4"  />
-
 - 👋 Hi, I’m @ikkxeer
 - 👀 I’m interested in new experiences
 - 🌱 I’m currently learning Python, Web development and Powershell
