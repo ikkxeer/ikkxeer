@@ -1,5 +1,4 @@
-![github-header-image (1)](https://github.com/ikkxeer/ikkxeer/assets/137718457/a16a52f5-8615-4f7e-b964-a237583e4b35)
-#
+# Welcome
 - 👋 Hi, I’m @ikkxeer
 - 👀 I’m interested in new experiences
 - 🌱 I’m currently learning Python, Web development and Powershell
