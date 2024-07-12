@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RtOXl4am02eWY1M2ZlZXhqY3hmemc1aXhhcDI3cjZydmwxbG1pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.example.com">
