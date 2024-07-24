@@ -44,4 +44,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkxeer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![snake gif](https://github.com/ikkxeer/ikkxeer/blob/output/github-contribution-grid-snake-dark.gif)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ikkxeer/ikkxeer/output/github-contribution-grid-snake-dark.svg" />
