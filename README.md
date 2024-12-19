@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" **alt="Windows" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" **alt="SQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
 
 # :fire: My Stats :
