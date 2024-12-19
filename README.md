@@ -38,9 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
 
-# :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikkxeer&theme=highcontrast&border_radius=4.4&locale=es&date_format=j%2Fn%5B%2FY%5D&hide_longest_streak=true)](https://git.io/streak-stats) <br>
-
 # :computer: Programming Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikkxeer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
