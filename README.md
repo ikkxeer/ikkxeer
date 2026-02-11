@@ -19,7 +19,6 @@
 </h1>
 
 - 👋 Hi, I’m @ikkxeer
-- 👀 I’m interested in new experiences
 - 🌱 I’m currently learning Java, SQL and Powershell
 - 💞️ I seek to collaborate in the community, help people and learn at the same time
 - 📫 You can contact me by mail or directly through discord "Azrael"
