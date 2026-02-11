@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RtOXl4am02eWY1M2ZlZXhqY3hmemc1aXhhcDI3cjZydmwxbG1pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HqcfJIVjVObbMNPCJd/giphy.gif" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4e574cf1-2c3e-4d92-827c-2d992b94e0cf" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://es.linkedin.com/in/iker-aramburu">
