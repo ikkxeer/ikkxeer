@@ -17,7 +17,7 @@
   Hi there, I’m @ikkxeer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am a **Multi-platform Application Development (DAM) student** with a deep passion for building software and exploring the ever-evolving world of technology. My journey is driven by curiosity and a commitment to continuous growth.
+I am a <b>Multi-platform Application Development (DAM) student</b> with a deep passion for building software and exploring the ever-evolving world of technology. My journey is driven by curiosity and a commitment to continuous growth.
 <br><br>
 
 <h1>🚀 About Me</h1>
