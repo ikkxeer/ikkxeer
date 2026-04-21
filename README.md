@@ -46,6 +46,15 @@ I am a <b>Multi-platform Application Development (DAM) student</b> with a deep p
 </div>
 <br>
 
+# :star: Interested with :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
+</div>
+<br>
+
 # :world_map: Languages :
 
 <table align="left">
