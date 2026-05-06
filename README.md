@@ -72,7 +72,7 @@ I am a <b>Multi-platform Application Development (DAM) student</b> with a deep p
       <sub>Intermediate</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/1200px-Flag_of_Catalonia.svg.png" width="30px" alt="Catalan"/>
+      <img src="https://em-content.zobj.net/source/openmoji/292/flag-for-catalonia-esct_1f3f4-e0065-e0073-e0063-e0074-e007f.png" width="30px" alt="Catalan"/>
       <br />
       <b>Catalan</b><br/>
       <sub>Native / Bilingual</sub>
