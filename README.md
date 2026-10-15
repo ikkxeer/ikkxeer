@@ -54,7 +54,7 @@ I am a <b>Multi-platform Application Development (DAM) student</b> with a deep p
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
 </div>
 <br>
 
