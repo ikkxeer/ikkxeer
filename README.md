@@ -43,6 +43,7 @@ I am a <b>Multi-platform Application Development (DAM) student</b> with a deep p
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=cGS-86NT9dk3SvyTPjCeNwARcI6zaa8Gyamr57LS-WE" title="SpringBoot" **alt="SpringBoot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 <br>
 
@@ -52,6 +53,8 @@ I am a <b>Multi-platform Application Development (DAM) student</b> with a deep p
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+
 </div>
 <br>
 
